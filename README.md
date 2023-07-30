@@ -10,7 +10,7 @@ In this first section :-
 
     Then I have used the "head" contains meta information about the HTML page such as title of the webpage(using "title" tag)
     
-    <title>Table Formation</title> element sets the title of the HTML document, which appears on the browser's title bar or tab.
+    <title>Form</title> element sets the title of the HTML document, which appears on the browser's title bar or tab.
 
     Inside the body tag, a form is created using these tags :-
 
